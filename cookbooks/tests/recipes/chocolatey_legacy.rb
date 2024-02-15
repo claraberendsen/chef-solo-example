@@ -5,6 +5,4 @@ if ! platform_family?('windows')
   return "Chocolatey install not supported on #{node['platform_family']}"
 end
 
-
-include_recipe 'chocolatey'
 chocolatey_package 'git'
