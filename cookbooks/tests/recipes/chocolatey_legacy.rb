@@ -5,4 +5,6 @@ if ! platform_family?('windows')
   return "Chocolatey install not supported on #{node['platform_family']}"
 end
 
-chocolatey_package 'git'
+chocolatey_package 'gnupg' do
+  action :install
+end
