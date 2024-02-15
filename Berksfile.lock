@@ -1,0 +1,5 @@
+DEPENDENCIES
+  chocolatey
+
+GRAPH
+  chocolatey (3.0.0)

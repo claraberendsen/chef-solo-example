@@ -1,0 +1,1 @@
+{ "run_list": ["recipe[tests::chocolatey_legacy]"] }
