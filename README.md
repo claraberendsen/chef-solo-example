@@ -9,7 +9,9 @@ Install chef or cinc through the chef software install script.
 - cinc: https://cinc.sh/start/client/ 
 
 
-Install berkshelf: https://docs.chef.io/workstation/berkshelf/ 
+Install Chef workstation: 
+- chef: https://docs.chef.io/workstation/install_workstation/
+- cinc: https://cinc.sh/start/workstation/
 
 To execute locally it's necessary to clone the upstream cookbooks to the repository. Execute 
 
