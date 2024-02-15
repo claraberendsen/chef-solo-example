@@ -1,6 +1,6 @@
 # chef-solo-example
 
-This repo is a dummy setup of a chef with solo and roles. It's purpose is to degug issues without the verbose of full recipes. 
+This repo is a dummy setup of chef solo. It's purpose is to debug issues without the verbose of full recipes. 
 
 ## Requirements
 
